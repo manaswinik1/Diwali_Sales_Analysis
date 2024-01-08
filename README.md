@@ -28,7 +28,7 @@ Open the Jupyter Notebook or Python script.
 The dataset path in the script should be updated to your local dataset path.
 Run each cell to see the analysis and visualizations.
 Modify the script as needed to explore different aspects of the data.
-Note: Sample credentials for accessing the data (if any) should be added here.
+
 
 Include Credits
 This project was developed by Manaswini Kommareddy. 
